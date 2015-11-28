@@ -1,0 +1,1 @@
+pyuic5 C:\Users\Tom\Dropbox\Projects\YoutubeMirrorTool\YoutubeMirrorClientMain.ui > C:\Users\Tom\Dropbox\Projects\YoutubeMirrorTool\YoutubeMirrorClientMain.py
